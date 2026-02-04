@@ -79,7 +79,7 @@ The solution follows a strict **Separation of Concerns** philosophy, decoupling 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/retail-pulse-etl.git](https://github.com/your-username/retail-pulse-etl.git)
+    git clone [https://github.com/Srikumaran5557/Retail-pulse-ETL-Snickers](https://github.com/Srikumaran5557/Retail-pulse-ETL-Snickers)
     cd retail-pulse-etl
     ```
 
@@ -106,6 +106,7 @@ The solution follows a strict **Separation of Concerns** philosophy, decoupling 
 ## 📂 Repository Structure
 
 ```text
+📁 Report/
 📁 RetailPulse/
 ├── 📄 solution_script.py      # The MASTER code (Generation + ETL + Analytics)
 ├── 📄 README.md               # This documentation
