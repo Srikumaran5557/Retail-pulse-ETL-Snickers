@@ -1,0 +1,216 @@
+entity,id,anomaly_type
+Header,TXN_0033554,Ghost Store
+Header,TXN_0009428,Ghost Store
+Header,TXN_0000200,Ghost Store
+Header,TXN_0012448,Ghost Store
+Header,TXN_0039490,Ghost Store
+Header,TXN_0042725,Ghost Store
+Header,TXN_0010823,Ghost Store
+Header,TXN_0049499,Ghost Store
+Header,TXN_0004145,Ghost Store
+Header,TXN_0036959,Ghost Store
+Header,TXN_0043107,Ghost Store
+Header,TXN_0038696,Ghost Store
+Header,TXN_0006189,Ghost Store
+Header,TXN_0001415,Ghost Store
+Header,TXN_0018472,Ghost Store
+Header,TXN_0029283,Ghost Store
+Header,TXN_0015178,Ghost Store
+Header,TXN_0034305,Ghost Store
+Header,TXN_0012610,Ghost Store
+Header,TXN_0012145,Ghost Store
+Header,TXN_0006114,Ghost Store
+Header,TXN_0015909,Ghost Store
+Header,TXN_0000822,Ghost Store
+Header,TXN_0015119,Ghost Store
+Header,TXN_0013467,Ghost Store
+Header,TXN_0026498,Ghost Store
+Header,TXN_0042112,Ghost Store
+Header,TXN_0030189,Ghost Store
+Header,TXN_0037238,Ghost Store
+Header,TXN_0033110,Ghost Store
+Header,TXN_0036481,Ghost Store
+Header,TXN_0024149,Ghost Store
+Header,TXN_0005504,Ghost Store
+Header,TXN_0003919,Ghost Store
+Header,TXN_0038479,Ghost Store
+Header,TXN_0021124,Ghost Store
+Header,TXN_0049718,Ghost Store
+Header,TXN_0042295,Ghost Store
+Header,TXN_0047610,Ghost Store
+Header,TXN_0011077,Ghost Store
+Header,TXN_0041515,Ghost Store
+Header,TXN_0022063,Ghost Store
+Header,TXN_0009414,Ghost Store
+Header,TXN_0038341,Ghost Store
+Header,TXN_0030264,Ghost Store
+Header,TXN_0041253,Ghost Store
+Header,TXN_0014645,Ghost Store
+Header,TXN_0026336,Ghost Store
+Header,TXN_0028103,Ghost Store
+Header,TXN_0017524,Ghost Store
+Header,TXN_0044475,Future Date
+Header,TXN_0002450,Future Date
+Header,TXN_0008388,Future Date
+Header,TXN_0002788,Future Date
+Header,TXN_0021907,Future Date
+Header,TXN_0013021,Future Date
+Header,TXN_0020259,Future Date
+Header,TXN_0017585,Future Date
+Header,TXN_0031597,Future Date
+Header,TXN_0029747,Future Date
+Header,TXN_0020766,Future Date
+Header,TXN_0020865,Future Date
+Header,TXN_0023201,Future Date
+Header,TXN_0026748,Future Date
+Header,TXN_0030568,Future Date
+Header,TXN_0007795,Future Date
+Header,TXN_0020558,Future Date
+Header,TXN_0035182,Future Date
+Header,TXN_0041388,Future Date
+Header,TXN_0049137,Future Date
+Header,TXN_0011213,Ghost Customer
+Header,TXN_0032090,Ghost Customer
+Header,TXN_0036942,Ghost Customer
+Header,TXN_0029908,Ghost Customer
+Header,TXN_0004657,Ghost Customer
+Header,TXN_0004318,Ghost Customer
+Header,TXN_0037471,Ghost Customer
+Header,TXN_0035793,Ghost Customer
+Header,TXN_0034243,Ghost Customer
+Header,TXN_0045094,Ghost Customer
+Header,TXN_0006099,Ghost Customer
+Header,TXN_0035861,Ghost Customer
+Header,TXN_0034913,Ghost Customer
+Header,TXN_0031880,Ghost Customer
+Header,TXN_0003299,Ghost Customer
+Header,TXN_0049378,Ghost Customer
+Header,TXN_0023656,Ghost Customer
+Header,TXN_0019886,Ghost Customer
+Header,TXN_0045099,Ghost Customer
+Header,TXN_0043256,Ghost Customer
+Header,TXN_0043843,Ghost Customer
+Header,TXN_0039372,Ghost Customer
+Header,TXN_0011751,Ghost Customer
+Header,TXN_0022683,Ghost Customer
+Header,TXN_0038648,Ghost Customer
+Header,TXN_0017974,Total Amount Mismatch
+Header,TXN_0015125,Total Amount Mismatch
+Header,TXN_0036594,Total Amount Mismatch
+Header,TXN_0040580,Total Amount Mismatch
+Header,TXN_0013942,Total Amount Mismatch
+Header,TXN_0034248,Total Amount Mismatch
+Header,TXN_0043883,Total Amount Mismatch
+Header,TXN_0008208,Total Amount Mismatch
+Header,TXN_0020955,Total Amount Mismatch
+Header,TXN_0042878,Total Amount Mismatch
+Header,TXN_0043855,Total Amount Mismatch
+Header,TXN_0020257,Total Amount Mismatch
+Header,TXN_0027583,Total Amount Mismatch
+Header,TXN_0016500,Total Amount Mismatch
+Header,TXN_0042565,Total Amount Mismatch
+Header,TXN_0032061,Total Amount Mismatch
+Header,TXN_0017918,Total Amount Mismatch
+Header,TXN_0030772,Total Amount Mismatch
+Header,TXN_0039352,Total Amount Mismatch
+Header,TXN_0003526,Total Amount Mismatch
+Header,TXN_0033978,Total Amount Mismatch
+Header,TXN_0029045,Total Amount Mismatch
+Header,TXN_0036285,Total Amount Mismatch
+Header,TXN_0016222,Total Amount Mismatch
+Header,TXN_0038739,Total Amount Mismatch
+Header,TXN_0014114,Total Amount Mismatch
+Header,TXN_0017785,Total Amount Mismatch
+Header,TXN_0021595,Total Amount Mismatch
+Header,TXN_0035910,Total Amount Mismatch
+Header,TXN_0012278,Total Amount Mismatch
+Header,TXN_0018511,Total Amount Mismatch
+Header,TXN_0033501,Total Amount Mismatch
+Header,TXN_0037757,Total Amount Mismatch
+Header,TXN_0004755,Total Amount Mismatch
+Header,TXN_0047264,Total Amount Mismatch
+Header,TXN_0026936,Total Amount Mismatch
+Header,TXN_0008679,Total Amount Mismatch
+Header,TXN_0034496,Total Amount Mismatch
+Header,TXN_0049780,Total Amount Mismatch
+Header,TXN_0009824,Total Amount Mismatch
+LineItem,78452,Negative Amount
+LineItem,152687,Negative Amount
+LineItem,169174,Negative Amount
+LineItem,92180,Negative Amount
+LineItem,145885,Negative Amount
+LineItem,95271,Negative Amount
+LineItem,124641,Negative Amount
+LineItem,2232,Negative Amount
+LineItem,41314,Negative Amount
+LineItem,167470,Negative Amount
+LineItem,119474,Negative Amount
+LineItem,5877,Negative Amount
+LineItem,98641,Negative Amount
+LineItem,56179,Negative Amount
+LineItem,6634,Negative Amount
+LineItem,49776,Negative Amount
+LineItem,114604,Negative Amount
+LineItem,15542,Negative Amount
+LineItem,42851,Negative Amount
+LineItem,48582,Negative Amount
+LineItem,115386,Negative Amount
+LineItem,115701,Negative Amount
+LineItem,162127,Negative Amount
+LineItem,150424,Negative Amount
+LineItem,173228,Negative Amount
+LineItem,89998,Negative Amount
+LineItem,153289,Negative Amount
+LineItem,94605,Negative Amount
+LineItem,12635,Negative Amount
+LineItem,128302,Negative Amount
+LineItem,31921,Negative Amount
+LineItem,48060,Negative Amount
+LineItem,26478,Negative Amount
+LineItem,81131,Negative Amount
+LineItem,5404,Negative Amount
+LineItem,40333,Negative Amount
+LineItem,146131,Negative Amount
+LineItem,39921,Negative Amount
+LineItem,55735,Negative Amount
+LineItem,141043,Negative Amount
+LineItem,146084,Negative Amount
+LineItem,32355,Negative Amount
+LineItem,123491,Negative Amount
+LineItem,33077,Negative Amount
+LineItem,174476,Negative Amount
+LineItem,70645,Negative Amount
+LineItem,122272,Negative Amount
+LineItem,30631,Negative Amount
+LineItem,118396,Negative Amount
+LineItem,143243,Negative Amount
+LineItem,23710,Ghost Product
+LineItem,6583,Ghost Product
+LineItem,111678,Ghost Product
+LineItem,165526,Ghost Product
+LineItem,103353,Ghost Product
+LineItem,33934,Ghost Product
+LineItem,54690,Ghost Product
+LineItem,112588,Ghost Product
+LineItem,135856,Ghost Product
+LineItem,143620,Ghost Product
+LineItem,112901,Ghost Product
+LineItem,9677,Ghost Product
+LineItem,55726,Ghost Product
+LineItem,171460,Ghost Product
+LineItem,95384,Ghost Product
+LineItem,117873,Ghost Product
+LineItem,15304,Ghost Product
+LineItem,157958,Ghost Product
+LineItem,131586,Ghost Product
+LineItem,131196,Ghost Product
+LineItem,96763,Ghost Product
+LineItem,107977,Ghost Product
+LineItem,22644,Ghost Product
+LineItem,106618,Ghost Product
+LineItem,10711,Ghost Product
+LineItem,16460,Ghost Product
+LineItem,138927,Ghost Product
+LineItem,66732,Ghost Product
+LineItem,46163,Ghost Product
+LineItem,27691,Ghost Product

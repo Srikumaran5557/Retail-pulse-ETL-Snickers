@@ -1,0 +1,4 @@
+rule_id,rule_name,points_per_unit_spend,min_spend_threshold,bonus_points
+1,Standard,1.0,0.0,0
+2,Big Spender,1.5,100.0,50
+3,Weekend,2.0,50.0,10

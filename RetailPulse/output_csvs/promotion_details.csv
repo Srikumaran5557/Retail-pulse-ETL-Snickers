@@ -1,0 +1,6 @@
+promotion_id,promotion_name,start_date,end_date,discount_percentage,applicable_category
+0,No Promotion,2025-07-01,2039-03-10,0.0,None
+101,Summer Sale,2025-07-01,2025-07-31,0.15,Apparel
+102,Tech Bonanza,2025-08-30,2025-09-29,0.1,Electronics
+103,Home Makeover,2025-10-09,2025-10-29,0.2,Home
+104,Grocery Saver,2025-07-01,2025-12-28,0.05,Grocery
